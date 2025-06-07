@@ -67,8 +67,20 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nghiaha1995&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake.svg" />
-</picture>
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<h3 align="center">🌊 Bonus: Snake GIF</h3>
+
+<p align="center">
+  <img alt="Snake animation GIF" src="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/ocean.gif" />
+</p>
