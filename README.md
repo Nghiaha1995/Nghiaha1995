@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nghia (Randy)</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nghia+(Randy);" />
+</h1>
 
 🌱 I'm a passionate **Web Developer**, **Data Analyst**, and **Cybersecurity Graduate Student**  
 💻 I love building web apps with **React**, **Next.js**, **Tailwind CSS**, and exploring **cloud computing**  
@@ -55,8 +59,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nghiaha1995&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nghiaha1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nghiaha1995&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nghiaha1995&limit=5&theme=dark&combine_all_yearly_contributions=true)
