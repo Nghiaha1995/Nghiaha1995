@@ -54,6 +54,17 @@
 [![CodePen](https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Nghia-Ha)
 
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake.svg" />
+  </picture>
+</p>
+
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nghiaha1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nghiaha1995&theme=dark&hide_border=false)<br/>
@@ -67,20 +78,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nghiaha1995&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/github-snake.svg" />
-  </picture>
-</p>
 
----
 
-<h3 align="center">🌊 Bonus: Snake GIF</h3>
 
-<p align="center">
-  <img alt="Snake animation GIF" src="https://raw.githubusercontent.com/nghiaha1995/nghiaha1995/output/ocean.gif" />
-</p>
